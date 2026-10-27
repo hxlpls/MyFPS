@@ -1,0 +1,16 @@
+# Build ve Derleme Çıktıları
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio & VS Code Gizli Önbellek Dosyaları
+.vs/
+.vscode/
+
+# Kullanıcıya Özel Ayar Dosyaları
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Paket Önbellekleri
+.nuget/
